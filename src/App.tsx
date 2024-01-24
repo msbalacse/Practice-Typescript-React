@@ -1,3 +1,4 @@
+import { Test } from './AdvancedReactTypescript/01-introduction/discreminated-union-props';
 import './App.css';
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       >
         Main App
       </h5>
+      <Test />
     </>
   );
 }
